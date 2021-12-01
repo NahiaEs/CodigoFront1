@@ -5,5 +5,11 @@ tengo un hermano
 
 Me gusta el diseño digital 
 
+<<<<<<< HEAD
 
 Por navidad me gusta comer pavo y tomar limonada
+=======
+>>>>>>> e506f26a7ad0717d8ffeda9cdbe1084404f05778
+
+Esto lo estoy haciendo en mi rama de nahi_dev y quiero 
+que los cambios se junten con main 
